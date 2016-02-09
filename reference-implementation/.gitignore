@@ -4,3 +4,5 @@ npm-debug.log
 bench/results/
 
 browser-tests/bundle.js
+
+streams.js

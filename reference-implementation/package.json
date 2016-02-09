@@ -24,6 +24,11 @@
   "license": "CC0",
   "traceur-runner": true,
   "devDependencies": {
+    "babel-plugin-transform-es2015-block-scoping": "^6.5.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.5.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.0",
+    "babel-plugin-transform-es2015-parameters": "^6.5.0",
+    "babelify": "^7.2.0",
     "browserify": "^9.0.7",
     "browserify-tape-spec": "^1.1.2",
     "es6ify": "^1.6.0",
